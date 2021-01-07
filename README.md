@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-Hi, I'm **mahmoud reda**, Android Developer , from Egypt 🇪🇬.
+Hi, I'm **mahmoud reda**, Android Developer , from Egypt.
  <img align="right" alt="GIF" src="https://github.com/mahmoud-reda12/mahmoud-reda12/blob/main/code.gif?raw=true" width="500" height="320" />
+ 
 **Talking about Personal Stuffs:**
 
 - 💻 I’m currently working on something cool :wink:;
