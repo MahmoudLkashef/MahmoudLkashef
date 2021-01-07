@@ -8,7 +8,7 @@
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: ...
 
-Hi, I'm [mahmoud reda], Android Developer , from Egypt🇪🇬.
+Hi, I'm [mahmoud reda], Android Developer , from Egypt 🇪🇬.
 
   
 **Languages and Tools:**  
