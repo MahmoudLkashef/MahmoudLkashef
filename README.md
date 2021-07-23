@@ -6,7 +6,7 @@ Hi, I'm **mahmoud reda**, Android Developer , from Egypt.
 **Talking about Personal Stuffs:**
 
 - 💻 I’m currently working on something cool :wink:;
-- 💬 Ask me about anything, I am happy to help;
+- 💬 Ask me about anything, i'd like to help;
 - 📫 How to reach me:
 
 <h3 align="left">Connect with me:</h3>
