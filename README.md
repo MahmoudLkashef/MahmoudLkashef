@@ -11,7 +11,7 @@
 
 - 🤝 I’m currently open for: **An Intern or a new job opportunity**
 
-- 👯 I’m looking to collaborate on **Open Source Projects**
+- 👨‍🔧 I’m looking to collaborate on **Open Source Projects**
 
 - 💬 Ask me about **anything i'd like to help**
 
